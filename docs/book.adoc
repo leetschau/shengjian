@@ -1,4 +1,4 @@
-= 激情燃烧的岁月
+= 致激情燃烧的岁月
 省建一公司文集
 2022-07-07
 :doctype: book
@@ -18,9 +18,17 @@
 
 include::prologue.adoc[leveloffset=+1]
 
+include::anniversary70.adoc[leveloffset=+1]
+
 include::fire.adoc[leveloffset=+1]
 
 include::history_photos_exhibition1.adoc[leveloffset=+1]
+
+include::history_photos_exhibition2.adoc[leveloffset=+1]
+
+include::history_photos_exhibition3.adoc[leveloffset=+1]
+
+include::history_photos_exhibition4.adoc[leveloffset=+1]
 
 include::homeyard.adoc[leveloffset=+1]
 
