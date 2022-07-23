@@ -1,4 +1,8 @@
 extends: default
+page:
+  layout: portrait
+  # margin: [0.75in, 1in, 0.75in, 1in]
+  size: Letter
 font:
   catalog:
     merge: true
@@ -8,10 +12,11 @@ font:
   fallbacks:
   - Noto Serif
 base:
+  font-size: 18
   text-align: left
   font-color: #000000
-  font-family: Noto Sans CN
-  # font-family: Microsoft YaHei
+  # font-family: Noto Sans CN
+  font-family: Microsoft YaHei
 heading:
   font-color: #000000
 codespan:
