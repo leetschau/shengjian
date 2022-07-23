@@ -1,23 +1,29 @@
 = 激情燃烧的岁月
-一公司子弟 <leechau@126.com>
-v0.1, 2022-07-07: edition 2022
+省建一公司文集
+2022-07-07
 :doctype: book
 :icons: font
 :toc:
 :toc-title: 目录
 :toclevels: 3
 :stem:
-:imagesdir: ./img
+:allow-uri-read:
 :experimental:
 :listing-caption:
 :xrefstyle: short
+:imagesdir: ./img
+:scripts: cjk
+:pdf-fontsdir: ./themes
+:pdf-theme: ./themes/cjk-theme.yml
 
 include::prologue.adoc[leveloffset=+1]
 
-include::history.adoc[leveloffset=+1]
+include::fire.adoc[leveloffset=+1]
 
 include::history_photos_exhibition1.adoc[leveloffset=+1]
 
 include::homeyard.adoc[leveloffset=+1]
 
 include::food_in_houma.adoc[leveloffset=+1]
+
+include::541.adoc[leveloffset=+1]
